@@ -282,7 +282,7 @@ footer {
  min-width: 100%;
  min-height: 100%;
  width: auto;
- height: auto;
+ height: 500px;
  z-index: -100;
  background-size: cover;
 }
